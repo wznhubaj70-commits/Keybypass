@@ -1,7 +1,0 @@
-{
-  "code": "rest_no_route",
-  "message": "URL INVÁLIDA OU KEY JÁ PEGA",
-  "data": {
-    "status": 404
-  }
-} 
